@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import NavBar from './Components/NavBar/NavBarpractice'
 
+
+// root app...
 const App = () => {
 
   const curr_theme = localStorage.getItem('curr_theme');
